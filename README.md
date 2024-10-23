@@ -1,5 +1,5 @@
 # NCT
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -42,6 +42,11 @@
             margin: 20px auto;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .subunit-name {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 10px;
         }
     </style>
 </head>
@@ -87,9 +92,16 @@
 <section id="galeria">
     <h2>Galería</h2>
     <img src="https://cdns-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/1900x1900-000000-80-0-0.jpg" alt="NCT 127" class="band-image">
+    <div class="subunit-name">NCT 127</div>
+    
     <img src="https://i.scdn.co/image/ab6761610000e5eba34109c12fce3cb615060043" alt="NCT Dream" class="band-image">
+    <div class="subunit-name">NCT Dream</div>
+    
     <img src="https://static.wikia.nocookie.net/drama/images/5/58/WayV24.jpg/revision/latest/scale-to-width-down/500?cb=20240930101431&path-prefix=es" alt="WayV" class="band-image">
+    <div class="subunit-name">WayV</div>
+    
     <img src="https://i.scdn.co/image/ab6761610000e5ebe713c08be87bf181194bd11b" alt="NCT Wish" class="band-image">
+    <div class="subunit-name">NCT Wish</div>
 </section>
 
 <section id="contacto">
