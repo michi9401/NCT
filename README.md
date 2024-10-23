@@ -110,9 +110,9 @@
         </div>
     </div>
 
-   <div class="subunit">
+    <div class="subunit">
         <h3>NCT Wish</h3>
-        <img src="https://via.placeholder.com/400](https://i.scdn.co/image/ab6761610000e5ebe713c08be87bf181194bd11b" alt="NCT Wish">
+        <img src="https://i.scdn.co/image/ab6761610000e5ebe713c08be87bf181194bd11b" alt="NCT Wish">
         <p>NCT Wish es una subunidad más reciente, formada para experimentar con un concepto más diverso y colaborativo. Se centra en dar voz a los deseos y sueños de los fans.</p>
         <h4>Discografía:</h4>
         <ul>
